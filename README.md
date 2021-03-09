@@ -9,9 +9,9 @@ After downloading and unzipping the Assets, you still need to add:
 
 My tracking tests:
 
-Intel T265: https://youtu.be/ddpmxp8WE98
-Zed Mini: https://youtu.be/EglIBMzIIjY
-What the tracker saw: https://youtu.be/VfMZfR5MwIY
+Intel T265: https://youtu.be/ddpmxp8WE98  
+Zed Mini: https://youtu.be/EglIBMzIIjY  
+What the tracker saw: https://youtu.be/VfMZfR5MwIY  
 
 You can read my results in my excel report.
 
