@@ -15,5 +15,5 @@ What the tracker saw: https://youtu.be/VfMZfR5MwIY
 
 You can read my results in my excel report.
 
-Intel T265 up to 20% spatial drift.
+Intel T265 up to 20% spatial drift.  
 Zed Mini up to 50% spatial drift.
